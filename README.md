@@ -1,6 +1,6 @@
-## My testing repo
-□─────□ X □─────□
-Author: flowerx_dc
+## My testing repo \n
+□─────□ X □─────□ \n
+Author: flowerx_dc \n
 Discord: flowerx_dc
 Instagram: flowerx_dc
 Mail: merkunix.official@gmail.com
