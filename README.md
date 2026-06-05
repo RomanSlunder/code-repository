@@ -1,9 +1,15 @@
-## My testing repo \n
-□─────□ X □─────□ \n
-Author: flowerx_dc \n
+## My testing repo 
+
+□─────□ X □─────□ 
+
+Author: flowerx_dc 
+
 Discord: flowerx_dc
+
 Instagram: flowerx_dc
+
 Mail: merkunix.official@gmail.com
+
 □─────□ X □─────□
 Zawód: Technik Informatyk
 Specjalistyka: Informatyk
