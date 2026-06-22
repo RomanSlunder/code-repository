@@ -41,11 +41,11 @@ Love: Music, Trucks, Game-FarmingSimulator17, Old Things, Writing, Coding (Somet
 English 63% <br>
 Polsih 37% <br>
 
-*,My talking language:*, <br>
+**My talking language:** <br>
 English 47% <br>
 Polish 53% <br>
 
-*,My programing Language:*, <br>
+**My programing Language:** <br>
 Rust 89% <br>
 Asm: 7% <br>
 Python: 4% <br>
