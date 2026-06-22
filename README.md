@@ -1,23 +1,85 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:ff007f,100:00f2fe&height=200&section=header&text=%F0%9F%AA%B7%20coffdage&fontSize=55&fontColor=ffffff&fontAlignY=43&desc=%F0%9F%8C%B8%20%F0%9F%AA%BD%20%F0%9F%8C%BA%20//%20Rust%20Developer%20%26%20Writer&descAlignY=65&descSize=16&animation=fadeIn&stroke=ff007f&strokeWidth=1.5" width="100%"/>
+# 🪷 Profile Informations 🩵
 
 </div>
 
+## ## ⚙️ + Interest:
+🌺 **Developer** - - - Rust  
+🩵 **Writer** - - - Anything  
+⚙️ **Informatic** - - - Technic Informatic (School)  
+🗃️ **Engineer** - - - (Soon)  
+🪷 **Hobbyist** - - - Rust, Truck Lover, Writer, Play Farming Simulator 17  
+
+---
+
+## 🌸 + Links:
+**Github Profile:** https://github.com/coffdage  
+
+**Github Organization:** https://github.com/coffdage-intercom  
+
+**Github Repo 'rust-lessons':** https://github.com/coffdage-intercom/rust-lessons  
+
+**Youtube Channel:** https://www.youtube.com/@coffdage  
+
+**Website:** https://coffdage.com  
+
+---
+
+## 🗃️ + Profile:
+* **Nick:** coffdage  
+* **Organization:** coffdage-intercom  
+* **Country:** Poland  
+* **Youtube:** @coffdage  
+* **Discord nick:** flowerx_dc  
+* **🩵 Love:** Music, Trucks, Game-FarmingSimulator17, Old Things, Writing, Coding (Sometimes), Offline Things.  
+
+---
+
+## 🎁 + Additional:
+
+### **(right now 🪷):** 📖 **Natural:** Polish, English  
+⚙️ **Programming:** Rust, Python, Asm  
+
+### **(learning 🌺):** 📖 **Natural:** Czech, Russian, Japan  
+⚙️ **Programming:** Rust, Asm, C, Python, C++, Html, Css  
+
+---
+
+## 📊 + Stats:
+
+### **Documentations of code:** English 63% | Polish 37%  
+<table width="100%" bgcolor="#222" height="8" style="border-collapse: collapse; border-radius: 4px; overflow: hidden;">
+  <tr>
+    <td width="63%" bgcolor="#00f2fe"></td>
+    <td width="37%" bgcolor="#ff007f"></td>
+  </tr>
+</table>
+
+### **My talking language:** English 47% | Polish 53%  
+<table width="100%" bgcolor="#222" height="8" style="border-collapse: collapse; border-radius: 4px; overflow: hidden;">
+  <tr>
+    <td width="47%" bgcolor="#00f2fe"></td>
+    <td width="53%" bgcolor="#ffaa00"></td>
+  </tr>
+</table>
+
+### **My programming Language:** Rust 89% | Asm 7% | Python 4%  
+<table width="100%" bgcolor="#222" height="8" style="border-collapse: collapse; border-radius: 4px; overflow: hidden;">
+  <tr>
+    <td width="89%" bgcolor="#ff007f"></td>
+    <td width="7%" bgcolor="#9d00ff"></td>
+    <td width="4%" bgcolor="#ffaa00"></td>
+  </tr>
+</table>
+
+<br>
+
+### **Main work:** Rust - - - [rust-lessons]  
+https://github.com/coffdage-intercom/rust-lessons  
+* **Work:** Alone  
+
+---
 <div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1200&color=00f2fe&center=true&vCenter=true&random=false&width=600&lines=Turning+coffee+into+neon+Rust+code.+%E2%98%95;Writer+---+Anything.+%F0%9F%93%96;Farming+Simulator+17+%26+Truck+Lover.+%F0%9F%93%B7;Learning+Asm%2C+C%2B%2B%2C+Czech%2C+Russian%2C+Japan..." alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-[![Website](https://img.shields.io/badge/-%20coffdage.com-%2300f2fe?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0d0814)](https://coffdage.com)
-[![Discord](https://img.shields.io/badge/-%20flowerx__dc-%23ff007f?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0814)](https://discord.com)
-[![YouTube](https://img.shields.io/badge/-%20@coffdage-%23ff3333?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d0814)](https://www.youtube.com/@coffdage)
-[![Organization](https://img.shields.io/badge/-%20coffdage--intercom-%239d00ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0814)](https://github.com/coffdage-intercom)
-
+  <font size="1" color="#555" face="monospace">🪷 COFFDAGE SYSTEM OVERVIEW // TERMINAL 2026</font>
 </div>
-
-<br/>
-
