@@ -1,15 +1,13 @@
 # Profile Informations
 
---
-
-# + Interest:
+## + Interest:
 🌺 Developer  - - - Rust
 🩵 Writer     - - - Anything
 ⚙️ Informatic - - - Technic Informatic (Shool)
 🗃 Enginer    - - - (Soon)
 🪷 Hobbyst    - - - Rust, Truck Lover, Writer, Play Farming Simulator 17
 
-# + Links:
+## + Links:
 *Github Profile:*
 https://github.com/coffdage
 *Github Organization:*
@@ -21,7 +19,7 @@ https://www.youtube.com/@coffdage
 *Website:*
 https://coffdage.com
 
-# +Profile:
+## +Profile:
 Nick: coffdage
 Organization: coffdage-intercom
 Country: Poland
@@ -29,7 +27,7 @@ Youtube: @coffdage
 Discord nick: flowerx_dc
 Love: Music, Trucks, Game-FarmingSimulator17, Old Things, Writing, Coding (Sometimes), Offline Things.
 
-# + Aditional:
+## + Aditional:
 rn = right now | lnr = learning
 *(rn):*
 📖 Natural: Polish, English
@@ -38,7 +36,7 @@ rn = right now | lnr = learning
 📖 Natural: Czech, Rusian, Japan
 ⚙️ Programing: Rust, Asm, C, Python, C++, Html, Css
 
-# + Stats:
+## + Stats:
 
 *Documentations of code:*
 English 63%
