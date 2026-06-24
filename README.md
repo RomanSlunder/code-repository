@@ -20,18 +20,21 @@
 
 <br/>
 
-╔═════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   > whoami                                                   ║
-║                                                              ║
-║   name       : coffdage                                      ║
-║   alias      : Flowerx                                    ║
-║   role       : Developer, Enginer, Writer                            ║
-║   location   : Poland 🇵🇱                             ║
-║   focus      : [ CODE, Programs, Cool Websites, Usefull Program, Good Course And Lessons For Everyone, etc ]         ║
-║   currently  : Learning more programing languages, and learning Japan 🌸                     ║
-║                                                              ║
-╚═════════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════╗
+                                                             
+    > whoami                                                   
+                                                           
+    name       : coffdage                                      
+
+    alias      : Flowerx                                    
+
+    role       : Developer, Enginer, Writer                            
+
+    location   : Poland 🇵🇱                       
+    focus      : [ CODE, Programs, Cool Websites, Usefull Program, Good Course And Lessons For Everyone, etc ]        
+    currently  : Learning more programing languages, and learning Japan 🌸
+
+╚═════════════════════════════════════════╝
 
 
 
